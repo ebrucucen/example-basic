@@ -5,8 +5,3 @@ use Git and Github
 
 ## Hometown
 Lincoln
-
-## Notes
-  Favourite film?
-  Favourite food?
-  

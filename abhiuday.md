@@ -4,6 +4,3 @@ more git and github
 ##Hometown
 San Francisco
 
-## Notes
-* Favourite Activity
-* Favourite resturant.

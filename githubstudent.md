@@ -1,5 +1,5 @@
 # GitHub Student
-GitHub student is a student in a class learning about Git and GitHub
+GitHub student is a student in a class learning more about Git and GitHub
 
 ## Hometown
 London

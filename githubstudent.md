@@ -4,8 +4,4 @@ more about Git and GitHub
 
 ## Hometown
 San Francisco
-
-
-## Notes
-* Favorite Activity?
-* Favorite restaurant
+  * Plow is my favorite restaurant

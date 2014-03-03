@@ -1,5 +1,5 @@
 #Isao Takahashi
-Isao Takahshi is a student in aclass learning about Git and GitHub
+Isao Takahshi is a student in aclass learning more about Git and GitHub
 
 ## Hometown
 Tokyo, Japan

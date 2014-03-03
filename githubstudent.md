@@ -1,6 +1,6 @@
 # GitHub Student
 GitHub student is a student in a class learning
-about Git and GitHub
+more about Git and GitHub
 
 ## Hometown
 San Francisco
